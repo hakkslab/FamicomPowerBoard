@@ -1,0 +1,14 @@
+G04 EasyPC Gerber Version 21.0.3 Build 4286 *
+G04 #@! TF.Part,Single*
+G04 #@! TF.FileFunction,Paste,Bot *
+G04 #@! TF.FilePolarity,Positive *
+%FSLAX35Y35*%
+%MOIN*%
+G04 #@! TA.AperFunction,SMDPad*
+%ADD75R,0.01800X0.03600*%
+X0Y0D02*
+D02*
+D75*
+X299463Y20919D03*
+X0Y0D02*
+M02*
